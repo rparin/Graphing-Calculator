@@ -26,7 +26,7 @@ A graphing calculator made in C++ using the Simple and Fast Multimedia Library (
 
 ### Features
 
-- Graph in Cartesian, and polar
+- Graph in Cartesian and polar
 - Save graphs, zoom in and out, view multiple graphs at once
 - View history of recently plotted graphs
 
