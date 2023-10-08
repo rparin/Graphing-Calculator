@@ -44,7 +44,7 @@ To get started, simply clone the repository and follow the instructions in the s
 
 <div align="center">
 
-[![SFML][sfml.io]][sfml-url]
+[![CPP][cpp.io]][cpp-url] [![SFML][sfml.io]][sfml-url]
 
 </div>
 
@@ -63,3 +63,5 @@ This project is licensed under the MIT License - see the [LICENSE][git-license-u
 [git-license-url]: https://github.com/rparin/Graphing-Calculator/blob/main/LICENSE
 [sfml.io]: https://img.shields.io/badge/sfml-f1f2ee?style=for-the-badge&logo=sfml
 [sfml-url]: https://www.sfml-dev.org/
+[cpp.io]: https://img.shields.io/badge/C++-00437c.svg?style=for-the-badge&logo=c%2B%2B
+[cpp-url]: https://cplusplus.com/
