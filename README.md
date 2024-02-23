@@ -20,7 +20,7 @@ A graphing calculator made in C++ using the Simple and Fast Multimedia Library (
 
 <div align="center">
 
-<img height=350 alt="demo of Graphing Calculator application" src="https://raw.githubusercontent.com/rparin/Graphing-Calculator/main/preview/Demo.gif">
+<img max-height=350 alt="demo of Graphing Calculator application" src="https://raw.githubusercontent.com/rparin/Graphing-Calculator/main/preview/Demo.gif">
 
 </div>
 
